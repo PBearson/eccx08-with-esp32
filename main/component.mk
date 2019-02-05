@@ -1,0 +1,1 @@
+EXTRA_COMPONENT_DIRS := cryptoauthlib cryptoauthlib_hal cryptoauthlib_basic
