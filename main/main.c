@@ -7,11 +7,6 @@
    CONDITIONS OF ANY KIND, either express or implied.
 */
 #include <stdio.h>
-#include <unistd.h>
-#include "freertos/FreeRTOS.h"
-#include "freertos/task.h"
-#include "esp_system.h"
-#include "esp_spi_flash.h"
 #include "cryptoauthlib.h"
 #include "driver/i2c.h"
 #include "crypto_settings.h"
