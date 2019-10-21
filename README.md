@@ -6,4 +6,4 @@ To get started, you will need to edit the "main/crypto_settings.h" file to refle
 
 The "main/main.c" file does not need to be changed in order to test connectivity. If the configuration is right, this project will output a success message on boot.
 
-To test your setup, simply run "make flash monitor".
+To test your setup, simply run "make flash monitor" or "idf.py flash monitor" (ESP-IDF version 4.0+).
